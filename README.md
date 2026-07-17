@@ -6,7 +6,7 @@ Pharma Analysis Dashboard
 
 
 
-This project presents an interactive \*\*Pharma Analysis Dashboard\*\* developed using \*\*SQL\*\* and \*\*Power BI\*\* to analyze healthcare data and provide meaningful insights into patient encounters, medication usage, disease prevalence, and treatment patterns.
+This project presents an interactive **Pharma Analysis Dashboard** developed using **SQL** and **Power BI** to analyze healthcare data and provide meaningful insights into patient encounters, medication usage, disease prevalence, and treatment patterns.
 
 
 
@@ -114,7 +114,7 @@ The dashboard provides interactive analysis of:
 
 
 
-Users can filter the dashboard by \*\*Year\*\* and \*\*Quarter\*\* to explore trends over different time periods.
+Users can filter the dashboard by **Year** and **Quarter** to explore trends over different time periods.
 
 
 
