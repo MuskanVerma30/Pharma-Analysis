@@ -1,4 +1,4 @@
-\# 💊 Pharma Analysis Dashboard
+\ Pharma Analysis Dashboard
 
 
 
